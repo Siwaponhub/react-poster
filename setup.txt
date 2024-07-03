@@ -1,0 +1,2 @@
+cd to backend folder and npm start in command line
+cd to backend folder and npm run dev in command line
